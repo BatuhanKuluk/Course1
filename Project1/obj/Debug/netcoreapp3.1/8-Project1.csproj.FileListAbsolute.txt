@@ -1,0 +1,16 @@
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\bin\Debug\netcoreapp3.1\8-Project1.exe
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\bin\Debug\netcoreapp3.1\8-Project1.deps.json
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\bin\Debug\netcoreapp3.1\8-Project1.runtimeconfig.json
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\bin\Debug\netcoreapp3.1\8-Project1.runtimeconfig.dev.json
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\bin\Debug\netcoreapp3.1\8-Project1.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\bin\Debug\netcoreapp3.1\8-Project1.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.csproj.AssemblyReference.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\Project1.Form1.resources
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.csproj.GenerateResource.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.AssemblyInfoInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.AssemblyInfo.cs
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.csproj.CoreCompileInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Project1\obj\Debug\netcoreapp3.1\8-Project1.genruntimeconfig.cache

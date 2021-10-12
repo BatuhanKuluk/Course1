@@ -1,0 +1,7 @@
+C:\Users\bkuluk\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\bkuluk\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\bkuluk\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Arrays\obj\Debug\2-Arrays.csproj.AssemblyReference.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Arrays\obj\Debug\2-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\bkuluk\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
