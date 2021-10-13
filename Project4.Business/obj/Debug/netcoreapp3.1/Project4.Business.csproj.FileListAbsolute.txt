@@ -1,0 +1,15 @@
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\bin\Debug\netcoreapp3.1\Project4.Business.deps.json
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\bin\Debug\netcoreapp3.1\Project4.Business.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\bin\Debug\netcoreapp3.1\Project4.Business.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\bin\Debug\netcoreapp3.1\Project4.DataAccess.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\bin\Debug\netcoreapp3.1\Project4.Entities.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\bin\Debug\netcoreapp3.1\Project4.DataAccess.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\bin\Debug\netcoreapp3.1\Project4.Entities.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\obj\Debug\netcoreapp3.1\Project4.Business.csproj.AssemblyReference.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\obj\Debug\netcoreapp3.1\Project4.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\obj\Debug\netcoreapp3.1\Project4.Business.AssemblyInfoInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\obj\Debug\netcoreapp3.1\Project4.Business.AssemblyInfo.cs
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\obj\Debug\netcoreapp3.1\Project4.Business.csproj.CoreCompileInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\obj\Debug\netcoreapp3.1\Project4.Business.csproj.CopyComplete
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\obj\Debug\netcoreapp3.1\Project4.Business.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.Business\obj\Debug\netcoreapp3.1\Project4.Business.pdb

@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkuluk\\source\\repos\\CSharpCourse\\Interfaces1\\Interfaces1.csproj",
-      "projectName": "Interfaces1",
-      "projectPath": "C:\\Users\\bkuluk\\source\\repos\\CSharpCourse\\Interfaces1\\Interfaces1.csproj",
+      "projectUniqueName": "C:\\Users\\bkuluk\\source\\repos\\CSharpCourse\\Interfaces1\\11-Interfaces1.csproj",
+      "projectName": "11-Interfaces1",
+      "projectPath": "C:\\Users\\bkuluk\\source\\repos\\CSharpCourse\\Interfaces1\\11-Interfaces1.csproj",
       "packagesPath": "C:\\Users\\bkuluk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bkuluk\\source\\repos\\CSharpCourse\\Interfaces1\\obj\\",
       "projectStyle": "PackageReference",

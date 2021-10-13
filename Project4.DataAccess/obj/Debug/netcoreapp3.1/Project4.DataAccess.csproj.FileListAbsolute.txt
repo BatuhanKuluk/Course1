@@ -1,0 +1,13 @@
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\bin\Debug\netcoreapp3.1\Project4.DataAccess.deps.json
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\bin\Debug\netcoreapp3.1\Project4.DataAccess.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\bin\Debug\netcoreapp3.1\Project4.DataAccess.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\bin\Debug\netcoreapp3.1\Project4.Entities.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\bin\Debug\netcoreapp3.1\Project4.Entities.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\obj\Debug\netcoreapp3.1\Project4.DataAccess.csproj.AssemblyReference.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\obj\Debug\netcoreapp3.1\Project4.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\obj\Debug\netcoreapp3.1\Project4.DataAccess.AssemblyInfoInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\obj\Debug\netcoreapp3.1\Project4.DataAccess.AssemblyInfo.cs
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\obj\Debug\netcoreapp3.1\Project4.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\obj\Debug\netcoreapp3.1\Project4.DataAccess.csproj.CopyComplete
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\obj\Debug\netcoreapp3.1\Project4.DataAccess.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Project4.DataAccess\obj\Debug\netcoreapp3.1\Project4.DataAccess.pdb
