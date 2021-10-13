@@ -10,7 +10,7 @@ namespace Project4.Business
     {
         public List<Product> GetAll()
         {
-            ProductDal productDal = new ProductDal();
+            EFProductDal productDal = new EFProductDal();
             return productDal.GetAll();
         }
     }

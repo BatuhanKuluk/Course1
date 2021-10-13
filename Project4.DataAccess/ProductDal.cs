@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Project4.DataAccess
 {
-    public class ProductDal
+    public class ProductDal:IProductDal
     {
         List<Product> _products;
         public ProductDal()
@@ -19,6 +19,12 @@ namespace Project4.DataAccess
                 new Product {ProductId=5,ProductName="HP",QuantityPerUnits="32 GB Ram",UnitPrice=2000,UnitInStock=5}
             };
         }
+
+        public void Add(Product product)
+        {
+            Console.WriteLine("Ado.Net ile Eklendi");
+        }
+
         public List<Product> GetAll()
         {
             return _products;
