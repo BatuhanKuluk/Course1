@@ -17,7 +17,6 @@ namespace Project3
         {
             InitializeComponent();
         }
-
         private void InitializeComponent()
         {
             this.dgwCustomer = new System.Windows.Forms.DataGridView();
@@ -158,20 +157,16 @@ namespace Project3
             this.PerformLayout();
 
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             DataLoad();
         }
-
         private void DataLoad()
         {
             dgwCustomer.DataSource = customerManager.GetAll();
         }
-
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            
             var customer = new Customer();
             customer.Id = Convert.ToInt32(tbxId.Text);
             customer.FirstName = tbxFirstName.Text;
@@ -182,7 +177,6 @@ namespace Project3
             customerManager.Add(customer);
             dgwCustomer.DataSource = null;
             DataLoad();
-
         }
     }
 }

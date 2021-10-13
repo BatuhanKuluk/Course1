@@ -21,7 +21,6 @@ namespace Project3
         List<Customer> customers;
         public List<Customer> GetAll()
         {
-
             return customers;
         }
         public void Add(Customer customer)
