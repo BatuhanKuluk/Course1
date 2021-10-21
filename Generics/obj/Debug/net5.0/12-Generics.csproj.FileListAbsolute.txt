@@ -1,0 +1,16 @@
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\bin\Debug\net5.0\12-Generics.exe
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\bin\Debug\net5.0\12-Generics.deps.json
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\bin\Debug\net5.0\12-Generics.runtimeconfig.json
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\bin\Debug\net5.0\12-Generics.runtimeconfig.dev.json
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\bin\Debug\net5.0\12-Generics.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\bin\Debug\net5.0\ref\12-Generics.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\bin\Debug\net5.0\12-Generics.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\12-Generics.csproj.AssemblyReference.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\12-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\12-Generics.AssemblyInfoInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\12-Generics.AssemblyInfo.cs
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\12-Generics.csproj.CoreCompileInputs.cache
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\12-Generics.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\ref\12-Generics.dll
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\12-Generics.pdb
+C:\Users\bkuluk\source\repos\CSharpCourse\Generics\obj\Debug\net5.0\12-Generics.genruntimeconfig.cache
