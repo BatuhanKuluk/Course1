@@ -14,6 +14,7 @@ namespace Generics
             City.Add("Adana");
             City.Add("Adana");
             City[1] = "İstanbul";
+            //Test
             Console.WriteLine(City.Count);
             Console.WriteLine(City[1]);
             foreach (var cityy in City)
