@@ -14,8 +14,8 @@ namespace Generics
             City.Add("Adana");
             City.Add("Adana");
             City[1] = "İstanbul";
-            //Console.WriteLine(City.Count);
-            //Console.WriteLine(City[1]);
+            Console.WriteLine(City.Count);
+            Console.WriteLine(City[1]);
             foreach (var cityy in City)
             {
                 Console.WriteLine(cityy);
@@ -28,8 +28,8 @@ namespace Generics
             City2.Add("İstanbul");
             City2.Add("İstanbul");
             City2[1] = "Adana";
-            //Console.WriteLine(City2.Count);
-            //Console.WriteLine(City2[1]);
+            Console.WriteLine(City2.Count);
+            Console.WriteLine(City2[1]);
             foreach (var cityy in City2.Items)
             {
                 Console.WriteLine(cityy);
